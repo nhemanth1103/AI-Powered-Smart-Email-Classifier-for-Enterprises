@@ -71,15 +71,6 @@ Passed to the trained model
 
 The model predicts the email category and confidence score
 
-🔧 Installation
-1. Clone the Repository
-git clone https://github.com/PrincePandit16/AI_Email_Classifier.git
-cd AI_Email_Classifier
-2. Install Dependencies
-pip install -r requirements.txt
-3. Run the Application
-streamlit run app.py
-📊 What This Project Demonstrates
 
 Text classification using machine learning
 
